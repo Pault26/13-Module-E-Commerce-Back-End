@@ -59,7 +59,7 @@
 
 This project was designed to allow the user to add products, categories, and tags to products through the back end to an online store. This project allows you to search through your data and organize it based on tags and catagories while creating ones as need be. The goal of this project is to make a simple and easy backend system.
 
-youtube: 
+youtube: https://github.com/Pault26/13-Module-E-Commerce-Back-End
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
