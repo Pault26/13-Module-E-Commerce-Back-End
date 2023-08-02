@@ -10,6 +10,7 @@ const sequelize = process.env.JAWSDB_URL
       dialectOptions: {
         decimalNumbers: true,
       },
+      password: process.env.DB_PASSWORD ? process.env.DB_PASSWORD : null,
     });
 
 module.exports = sequelize;

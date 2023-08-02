@@ -59,6 +59,8 @@
 
 This project was designed to allow the user to add products, categories, and tags to products through the back end to an online store. This project allows you to search through your data and organize it based on tags and catagories while creating ones as need be. The goal of this project is to make a simple and easy backend system.
 
+youtube: 
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -183,7 +185,7 @@ Special Thanks to all of the following for making this possible!
 [license-url]: https://github.com/Pault26/13-Module-E-Commerce-Back-End/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/paul-tuemler/
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: assets\Insomniacapture.PNG
 [MySQL]: https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white
 [MySQL-url]: https://www.mysql.com/
 [JavaScript]: https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
